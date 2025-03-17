@@ -2,7 +2,7 @@
 
 ## About me!
 
-I'm currently a Junior at the University of California, Santa Cruz, getting my bachelors degree in Computer Science! I love building projects, websites, and tools to make life easier. You can check out <a href="https://www.colinhenderson.dev." target="_blank">my site</a> to learn a bit more about me, or look around at some of my projects. I started coding in high school and have been hooked ever since. While the last year of my coding expeirnece has been academic, personal, and freelance work, I do have experience as a software engineering intern where I primarily developed in the C# ASP.NET ecosystem (Check out my website for more info!)
+I'm currently a Junior at the University of California, Santa Cruz, getting my bachelors degree in Computer Science! I love building projects, websites, and tools to make life easier. You can check out <a href="https://www.colinhenderson.dev." target="_blank">my site</a> to learn a bit more about me, or look around at some of my projects. I started coding in high school and have been hooked ever since. While the last year of my coding experience has been primarily academic, personal, and freelance work, I do have experience as a software engineering intern where I primarily developed in the C# ASP.NET ecosystem (Check out my website for more info!)
 
 I'm currently looking for work & internship opportunities! Please reach out to me on <a href="https://linkedin.com/in/colinchenderson/" target="_blank">LinkedIn</a> (although it's much more likely I'm reaching out to you).
 
